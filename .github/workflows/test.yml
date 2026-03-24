@@ -1,7 +1,7 @@
 # Runs the frontend (JavaScript) tests on every push to main or starter
 # and on every pull request targeting those branches.
 
-name: workworkwork
+name: 
 
 on:
   push:
